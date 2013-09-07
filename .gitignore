@@ -1,0 +1,6 @@
+
+/application/cache
+/application/logs
+/assets/.sass-cache
+
+/nbproject/private/
